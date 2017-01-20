@@ -17,6 +17,8 @@
 
 All posts are released under [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/).
 
+Format of this blog is influenced by [Viktor Klang's](https://github.com/viktorklang) excellent [Letters from Klang](https://github.com/viktorklang/blog).
+
 ## About me
 
 I'm Lukáš Šembera and I work on enterprise security products at HPE in Prague. In 2009, I finished bachelor degree in computer science at Faculty of science, Palacky University, Olomouc and then in 2012, I also gained master degree at Faculty of informatics, Masaryk University, Brno.
